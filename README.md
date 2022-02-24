@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akudeter
-- 👀 15 yo dev
+- 👀 akudeter
 - 🌱 python main langage
 - ✨ Akuma  'SSD#1337 to contact me 
 
